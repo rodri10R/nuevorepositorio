@@ -1,0 +1,3 @@
+Un flujo de trabajo es una serie estandarizada de tareas que se completan para lograr un objetivo común específico.
+Un correo electrónico automatizado le pide al cliente que programe una llamada de capacitación.
+Un experto en producto se encarga de la llamada de capacitación.
